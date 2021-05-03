@@ -23,74 +23,74 @@
     },
     {
       "id":4,
-      "nome": "Lisa",
-      "nomeOriginal": "Lisa Marie Simpson",
-      "idade": "8",
-      "ocupação": "Estudante"
+      "nome": "Trunks",
+      "nomeOriginal": "Trunks",
+      "idade": "14",
+      "ocupação": "Sayajin"
     },
     {
       "id":5,
-      "nome": "Maggie",
-      "nomeOriginal": "Margaret Evelyn Lenny Simpson",
-      "idade": "1",
-      "ocupação": "Bebê"
+      "nome": "Freeza",
+      "nomeOriginal": "Freeza",
+      "idade": "60",
+      "ocupação": "Raça Challenger"
     }
   ],
   "outrosPersonagens":[
     {
       "id":1,
-      "nome": "Ned Flanders",
-      "nomeOriginal": "Nedward Flanders Jr.",
-      "idade": "60",
-      "ocupação": "Farmacêutico"
+      "nome": "Majin Boo",
+      "nomeOriginal": "Majin Boo",
+      "idade": "80",
+      "ocupação": "Alienigina"
     },
     {
       "id":2,
-      "nome": "Seymour Skinner",
-      "nomeOriginal": "Armin Tamzarian",
-      "idade": "46",
-      "ocupação": "Diretor da escola Fundamental Springfield"
+      "nome": "Chi Chi",
+      "nomeOriginal": "Chi Chi",
+      "idade": "14",
+      "ocupação": "Humana"
     },
     {
       "id":3,
-      "nome": "Palhaço Krusty",
-      "nomeOriginal": "Herschel Shmoikel Pinchas Yerucham Krustofsky",
-      "idade": "52",
-      "ocupação": "Palhaço"
+      "nome": "Bulma",
+      "nomeOriginal": "Bulma",
+      "idade": "39",
+      "ocupação": "Humana"
     },
     {
       "id":4,
-      "nome": "Sideshowbob",
-      "nomeOriginal": "Robert Underdunk Terwilliger Jr.",
-      "idade": "50",
+      "nome": "Broly",
+      "nomeOriginal": "Broly",
+      "idade": "45",
       "ocupação":"Criminoso"
     }
   ],
   "dubladores": [
     {
       "id": 1,
-      "nome": "Carlos Alberto Vasconcellos",
-      "personagem": "Homer"
+      "nome": "Massako no",
+      "personagem": "Son Goku"
     },
     {
       "id": 2,
-      "nome": "Selma Lopes",
-      "personagem": "Marge"
+      "nome": "Ryo Horikawa",
+      "personagem": "Vegeta"
     },
     {
       "id": 3,
-      "nome": "Rodrigo Antas",
-      "personagem": "Bart"
+      "nome": "Ryusei Nakato",
+      "personagem": "Freeza"
     },
     {
       "id": 4,
-      "nome": "Flávia Saddy",
-      "personagem": "Lisa"
+      "nome": "Scott McNeil",
+      "personagem": "Majin Boo"
     },
     {
       "id": 5,
-      "nome": "Nancy Cartwright",
-      "personagem": "Maggie"
+      "nome": "Takeshi Ku",
+      "personagem": "Trunks"
     }
   ]
 }
